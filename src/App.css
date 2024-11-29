@@ -1,0 +1,127 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.blank{
+  color: rgb(32, 8, 246);
+}
+
+
+
+/* General Navbar Styles */
+.navbar {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(90deg, black, navy);
+}
+.nav-link {
+  color: white !important;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+.nav-link:hover {
+  text-shadow: 0px 0px 5px #00ff88;
+  font-weight: bold;
+}
+/* styles.css */
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+textarea {
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+button {
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+
+/* About Us Page Styles */
+.about-container {
+  background: linear-gradient(90deg, #001f1f, #003f3f);
+  border-radius: 15px;
+  padding: 20px;
+  color: white;
+  margin-top: 20px;
+}
+.accordion-button {
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+.accordion-button:hover {
+  background-color: #005757 !important;
+}
+button:hover {
+  transform: scale(1.05);
+}
+
+/* TextForm Page Styles */
+.textform-container {
+  background: linear-gradient(45deg, black, #004d4d);
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.4);
+  margin-top: 20px;
+}
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: #00ff88;
+}
+textarea {
+  border-radius: 10px;
+  padding: 10px;
+}
+textarea:focus {
+  border-color: #00ff88 !important;
+  box-shadow: 0 0 8px #00ff88;
+}
+button {
+  background: #00ff88;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  transition: all 0.3s ease;
+  color: black;
+}
+button:hover {
+  background: #00cc6f;
+  transform: scale(1.1);
+}
