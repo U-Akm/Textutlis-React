@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/U-Akm/Textutlis-React/static/css/main.8bc15c2e.css",
-    "main.js": "/U-Akm/Textutlis-React/static/js/main.71b07f99.js",
-    "static/js/453.ed3810f9.chunk.js": "/U-Akm/Textutlis-React/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/U-Akm/Textutlis-React/index.html",
-    "main.8bc15c2e.css.map": "/U-Akm/Textutlis-React/static/css/main.8bc15c2e.css.map",
-    "main.71b07f99.js.map": "/U-Akm/Textutlis-React/static/js/main.71b07f99.js.map",
-    "453.ed3810f9.chunk.js.map": "/U-Akm/Textutlis-React/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Textutlis-React/static/css/main.8bc15c2e.css",
+    "main.js": "/Textutlis-React/static/js/main.855faf1c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Textutlis-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Textutlis-React/index.html",
+    "main.8bc15c2e.css.map": "/Textutlis-React/static/css/main.8bc15c2e.css.map",
+    "main.855faf1c.js.map": "/Textutlis-React/static/js/main.855faf1c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Textutlis-React/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bc15c2e.css",
-    "static/js/main.71b07f99.js"
+    "static/js/main.855faf1c.js"
   ]
 }
